@@ -1,0 +1,11 @@
+hangman/
+├── src/
+│   ├── main.cpp
+│   ├── hangman_game.cpp
+│   ├── hangman_game.h
+│   ├── player.cpp
+│   ├── player.h
+│   └── word_bank.cpp
+│   └── word_bank.h
+├── README.md
+└── Makefile
